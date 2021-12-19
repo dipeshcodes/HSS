@@ -45,7 +45,7 @@ var PeriodTable = [
 	{name: "Háfnio", id: "Hf"},
 	{name: "Hólmio", id: "Ho"},
 	{name: "Hácio", id: "Hs"},
-	{name: "Iodo", id: "I"},
+	{name: "Iodine", id: "I"},
 	{name: "Índio", id: "In"},
 	{name: "Irídio", id: "Ir"},
 	{name: "Potássio", id: "K"},
